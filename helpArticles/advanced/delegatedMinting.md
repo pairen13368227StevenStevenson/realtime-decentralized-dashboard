@@ -56,3 +56,5 @@ AddressB = Delegated Minter
 - Make sure the URL is: **Followed by AddressA**
 - Make sure AddressB is selected in Metamask
 <!-- Auto-update: 2025-10-07T06:21:08.877131 -->
+
+<!-- Auto-update: 2025-10-10T00:08:58.156977 -->

@@ -41,3 +41,4 @@ Allow transaction to confirm.
 Congratulations, your validator is now started! You are now generating FLUX/ArbiFLUX tokens. You can stop your validator at any time to get 100% of your DAM tokens back.
 
 **Stopping a validator will cause you to lose your current time bonus. Any unminted FLUX/ArbiFLUX tokens will also be lost. We recommend that you mint your FLUX/ArbiFLUX tokens before stopping a validator.**
+<!-- Auto-update: 2025-10-11T08:51:25.104691 -->

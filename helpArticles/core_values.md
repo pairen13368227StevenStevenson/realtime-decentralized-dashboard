@@ -28,3 +28,4 @@ All business logic is executed via Audited Smart Contracts so your funds are saf
 ![Built For The Community](../helpArticles/assets/images/svgs/community.svg#_className=rightIcon)
 ## Built For The Community
 Utilizing the latest serverless, web3 and mobile technologies our Smart Contracts feel like the apps you use and love. Seamlessly switch your experience from desktop to mobile on the same secure and easy-to-use dashboard.
+<!-- Auto-update: 2025-10-18T09:04:02.239387 -->
